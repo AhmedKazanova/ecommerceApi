@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj": {}
+    "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj": {
+    "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj",
+        "projectPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\gg\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Contracts\\obj\\",
+        "outputPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj"
+              "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj": {
+    "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\gg\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\obj\\",
+        "outputPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"

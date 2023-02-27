@@ -12,6 +12,7 @@ using EcommerceApi.Utilitty;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.FileProviders;
 using AutoMapper;
+using NLog;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -34,7 +35,7 @@ builder.Services.ConfigureLoggerService();
 builder.Services.ConfigureIISInteration();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigureSqlContext(builder.Configuration);
-//builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.ConfigureRepositoryManger();
 builder.Services.ConfigureAuthenticationManager();
 builder.Services.AddAuthentication();
@@ -42,6 +43,11 @@ builder.Services.ConfigureIdentity();
 builder.Services.ConfigureJWT(builder.Configuration);
 
 //LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
+//var logger = LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
+//builder.Services.AddTransient<GenericHelper>();
+
+
+
 
 var app = builder.Build();
 
@@ -59,6 +65,7 @@ app.UseStaticFiles(new StaticFileOptions()
     FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"Resources")),
     RequestPath = new PathString("/Resources")
 });
+app.Logger.LogInformation("Starting the app");
 app.UseCors("CorsPolicy");
 app.UseRouting();
 app.UseAuthentication();

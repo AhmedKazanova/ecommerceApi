@@ -12,8 +12,10 @@ namespace Entities.Model
     {
         [Required(ErrorMessage = "Name Is Required")]
         public string Name { get; set; }
+
         [Required(ErrorMessage = "Password Is Required")]
         public string Password { get; set; }
+
         public string Role { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g7jNvigbY3s3MMi7i1DmMJNPQ8AIDbw4FaV95Gi4EQfxUlr6dXLju+fT10Bb9n33hgRRqrKS7jHBj0IEXM89Ig==",
+  "dgSpecHash": "nQJJ8tqG5j12V+EZsoI9jMYxpxdVRjzjoYlqWODbrRQqSJ/ppQ2t8gwCWsHl4DlzFVvaNW7iuOwyw0Cied305w==",
   "success": true,
-  "projectFilePath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj",
+  "projectFilePath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gg\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\gg\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",

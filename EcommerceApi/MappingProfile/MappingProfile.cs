@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Entities.Configurations;
+using Entities.Model;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace EcommerceApi.MappingProfile
@@ -7,7 +9,7 @@ namespace EcommerceApi.MappingProfile
     {
         public MappingProfile()
         {
-
+            CreateMap<UserRegisterationDto, User>();
         }
     }
 }

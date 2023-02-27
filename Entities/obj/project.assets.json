@@ -819,11 +819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\gg\\.nuget\\packages\\",
-      "outputPath": "D:\\Angular Project\\Ecommerce .Net7\\EcommerceApi\\Entities\\obj\\",
+      "outputPath": "D:\\Angular Project\\احمد ايمن\\Ecommerce .Net7\\EcommerceApi\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
