@@ -1,0 +1,17 @@
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\Contracts.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\Entities.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\Contracts.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\bin\Debug\net7.0\Entities.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll

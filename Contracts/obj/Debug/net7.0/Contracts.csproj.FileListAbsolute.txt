@@ -1,0 +1,15 @@
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\bin\Debug\net7.0\Contracts.deps.json
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\bin\Debug\net7.0\Contracts.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\bin\Debug\net7.0\Contracts.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\bin\Debug\net7.0\Entities.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\bin\Debug\net7.0\Entities.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\Contracts.pdb
+D:\Angular Project\Ecommerce .Net7\EcommerceApi\Contracts\obj\Debug\net7.0\ref\Contracts.dll
